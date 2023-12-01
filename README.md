@@ -83,7 +83,7 @@
 <a href="https://linkedin.com/in/brandonelmore" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/BB00GIE" target="_blank">
+<a href="https://github.com/cZAlpha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -103,5 +103,5 @@
                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
                    />
-<img src="https://komarev.com/ghpvc/?username=BB00GIE&&style=flat-square" align="center" /></div>
+<img src="https://komarev.com/ghpvc/?username=cZAlpha&&style=flat-square" align="center" /></div>
 <br />
