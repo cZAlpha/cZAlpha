@@ -37,8 +37,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cZAlpha&hide_border=true&layout=compact&theme=tokyonight&langs_count=10" align="center" /></div>  
 
-<br/>
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cZAlpha&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
 
 <br/>  
