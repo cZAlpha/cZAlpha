@@ -63,11 +63,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BB00GIE&hide_border=true&layout=compact&theme=tokyonight&langs_count=10" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cZAlpha&hide_border=true&layout=compact&theme=tokyonight&langs_count=10" align="center" /></div>  
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BB00GIE&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cZAlpha&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
 
 <!-- ## Recent Blog Posts  BLOG-POST-LIST:START   BLOG-POST-LIST:END  -->
 <br/>  
