@@ -1,6 +1,6 @@
 ## Intro
 
-### <div align="center">I'm Noah, I've been a part-time Research Assistant @ DSU Since 2021</div>  
+### <div align="center">I'm Noah, I've been a Research Assistant managing a team of Researchers @ DSU Since 2021</div>  
 
 <br/>
   
