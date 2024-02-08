@@ -1,11 +1,11 @@
 ## Intro
 
-### <div align="center">I'm Noah, I've been a Research Assistant managing a team of Researchers @ DSU Since 2021</div>  
+### <div align="center">I'm Noah, I've been a Research Assistant managing a team of Researchers @ DSU Since 2022</div>  
 
 <br/>
   
 
-- 🌱 I’m currently learning JS, Django and refreshing HTML and CSS    
+- 🌱 I’m currently learning JS, React, Django and refreshing HTML and CSS    
   
 
 - 💼 Previous Jobs: Technical Support Specialist Intern   
