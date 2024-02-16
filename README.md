@@ -43,8 +43,8 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 <img style="margin: 20px" src="https://crowdin-static.downloads.crowdin.com/images/project-logo/369271/small/6afbec32f80242af6da64b22130b985d132.png" alt="QiskitLogo" height="50" />
+<img style="margin: 20px" src="https://www.gamingonlinux.com/uploads/tagline_gallery/sdl.jpg" alt="SDL Logo" height="50" />
 </div>
-
 
 </td><td valign="top" width="20%">
 
