@@ -1,10 +1,6 @@
 ## Intro
 
-### <div align="center">I'm Noah, I've been a Research Assistant managing a team of Researchers @ DSU Since 2022</div>  
-
-<br/>
-
-<a href="https://czalpha.github.io/"> My Website!</a>
+### <div align="center">I'm <a href="https://czalpha.github.io/"> Noah </a>, I've been a Research Assistant managing a team of Researchers @ DSU Since 2022</div>  
 
 <br/>
 
