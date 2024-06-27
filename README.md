@@ -70,7 +70,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cZAlpha&hide_border=true&layout=compact&theme=tokyonight&langs_count=10" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cZAlpha&layout=pie&theme=tokyonight&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -84,7 +84,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/cZAlpha" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
