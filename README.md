@@ -4,10 +4,10 @@
 
 <br/>
 
-- 🌱 I’m currently learning JS, React, Django and refreshing HTML and CSS    
+- 🌱 I’m currently learning JS, React, Django
   
 
-- 💼 Previous Jobs: Technical Support Specialist Intern   
+- 💼 Previous Jobs: Lawrence Livermore National Labratory Laser Technician Research Assistant, Technical Support Specialist Intern   
 
 <br/>  
 
@@ -80,7 +80,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/in/noah-klaus-2187421ab/" target="_blank">
+<a href="https://www.linkedin.com/in/noah-klaus-2187421ab/](https://www.linkedin.com/in/noah--klaus/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/cZAlpha" target="_blank">
