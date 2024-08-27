@@ -1,13 +1,13 @@
 ## Intro
 
-### <div align="center">I'm <a href="https://czalpha.github.io/"> Noah </a>, I've been a Research Assistant managing a team of Researchers @ DSU Since 2022</div>  
+### <div align="center">I'm <a href="https://czalpha.github.io/"> Noah </a>, I've been a Research Assistant @ DSU Since 2022 specializing in quantum computing game developement</div>  
 
 <br/>
 
-- 🌱 I’m currently learning JS, React, Django
+- 🌱 I’m currently learning PHP, MVC Architecture
   
 
-- 💼 Previous Jobs: Lawrence Livermore National Labratory Laser Technician Research Assistant, Technical Support Specialist Intern   
+- 💼 Previous Jobs: Lawrence Livermore National Laboratory Laser Technician Research Assistant, Technical Support Specialist Intern
 
 <br/>  
 
