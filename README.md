@@ -4,10 +4,10 @@
 
 <br/>
 
-- 🌱 I’m currently learning PHP, MVC Architecture
+- 🌱 I’m currently working with React, Django, and Godot
   
 
-- 💼 Previous Jobs: Lawrence Livermore National Laboratory Laser Technician Research Assistant, Technical Support Specialist Intern
+- 💼 Previous Jobs: LLNL Laser Technician Research Assistant, Technical Support Specialist Intern
 
 <br/>  
 
