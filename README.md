@@ -1,6 +1,6 @@
 ## Intro
 
-### <div align="center">I'm <a href="https://czalpha.github.io/"> Noah </a>, I've been a Research Assistant @ DSU Since 2022 specializing in quantum computing game developement</div>  
+### <div align="center">I'm <a href="https://czalpha.github.io/"> Noah </a>, I've been a Research Assistant @ DSU Since 2022 specializing in Quantum Computing & Game Developement</div>  
 
 <br/>
 
