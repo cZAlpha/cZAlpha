@@ -72,7 +72,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cZAlpha&layout=pie&theme=tokyonight&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=rainbow" align="center" /></div>  
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
+</picture>
 <br/>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cZAlpha&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>
