@@ -33,6 +33,7 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+<img style="margin: 10px" src="https://dt-cdn.net/hub/logos/php.png" alt="PHP" height="50" />
 </div>
 
 </td><td valign="top" width="20%">
@@ -45,6 +46,10 @@
 <img style="margin: 20px" src="https://crowdin-static.downloads.crowdin.com/images/project-logo/369271/small/6afbec32f80242af6da64b22130b985d132.png" alt="QiskitLogo" height="50" />
 <img style="margin: 20px" src="https://www.gamingonlinux.com/uploads/tagline_gallery/sdl.jpg" alt="SDL Logo" height="50" />
 <img style="margin: 20px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="SDL Logo" height="50" />
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="50" />
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="OpenCV" height="50" />
+
+
 
 </div>
 
@@ -56,13 +61,14 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Terminalicon2.png/800px-Terminalicon2.png" alt="Bash" height="50" />
 </div>  
 
 </td><td valign="top" width="20%">
 
 ### Electronics
 <div align="center">  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+<img style="margin: 15px" src="https://www.svgrepo.com/show/424929/logo-raspberry-pi-open-source.svg" alt="Raspberry Pi" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 </div>
 
