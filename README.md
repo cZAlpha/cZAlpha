@@ -1,6 +1,6 @@
 ## Intro
 
-### <div align="center">I'm <a href="https://czalpha.github.io/"> Noah </a>, I've been a Research Assistant @ DSU Since 2022 specializing in Quantum Computing & Game Developement</div>  
+### <div align="center">I'm <a href="https://czalpha.github.io/"> Noah </a>, I've been a Research Assistant @ DSU Since 2022 specializing in Quantum Computing & Game Development</div>  
 
 <br/>
 ᯓ★  I'm a full stack web application developer, specifically specializing in React JS and Django as a tech stack
