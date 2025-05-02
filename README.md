@@ -9,11 +9,25 @@
 </br></br>
 💼 Previous Jobs: </br>
 
-- Quantum Computing Game Development Researcher
-- LLNL Laser Technician Research Assistant
-- Technical Support Specialist Intern
+- 🧪 Quantum Computing Game Development Researcher
+- 🔬 LLNL Laser Technician Research Assistant
+- 🖥️ Technical Support Specialist Intern
 
-<br/>  
+</br>
+
+## Connect with me  
+<div align="center">
+<a href="https://www.linkedin.com/in/noah--klaus/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/cZAlpha" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/cZAlpha" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=cZAlpha&&style=for-the-badge" alt="Profile Views" style="margin-bottom: 5px;" />
+</a>
+</div>
+</br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="20%">
@@ -89,33 +103,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=cZAlpha&screen_effect=true&theme=blue_chill">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
 </picture>
-
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/noah--klaus/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/cZAlpha" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/BB00GIE" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/Boogie" target="_blank" style = "display: inline-block;">
-              <img
-                   src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                   />
-<img src="https://komarev.com/ghpvc/?username=cZAlpha&&style=flat-square" align="center" /></div>
-<br />
