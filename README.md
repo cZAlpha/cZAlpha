@@ -1,14 +1,17 @@
 ## Intro
 
-### <div align="center">I'm <a href="https://czalpha.github.io/"> Noah </a>, I've been a Research Assistant @ DSU Since 2022 specializing in Quantum Computing & Game Development</div>  
+### <div align="center">-ˏˋ⋆  Hi, I'm <a href="https://czalpha.github.io/"> Noah </a> ⋆ˊˎ-</div>  
 
-<br/>
-ᯓ★  I'm a full stack web application developer, specifically specializing in React JS and Django as a tech stack
+</br>
+ᯓ★  I'm a full stack web application developer, specifically specializing in React JS and Django
+</br></br>
+🌱 I’m currently working as CIO of Sage Advisory DE
+</br></br>
+💼 Previous Jobs: </br>
 
-- 🌱 I’m currently working with React, Django, and Godot
-  
-
-- 💼 Previous Jobs: LLNL Laser Technician Research Assistant, Technical Support Specialist Intern
+- Quantum Computing Game Development Researcher
+- LLNL Laser Technician Research Assistant
+- Technical Support Specialist Intern
 
 <br/>  
 
