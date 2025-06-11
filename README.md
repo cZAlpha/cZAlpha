@@ -5,7 +5,7 @@
 </br>
 ᯓ★  I'm a full stack web application developer, specifically specializing in React JS and Django
 </br></br>
-🌱 I’m currently working as CIO of Sage Advisory DE
+🌱 I’m currently working as a Data Science Coordinator for <a href="https://www.desu.edu/">Delaware State University</a>
 </br></br>
 💼 Previous Jobs: </br>
 
