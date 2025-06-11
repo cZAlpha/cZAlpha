@@ -62,7 +62,6 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 <img style="margin: 20px" src="https://crowdin-static.downloads.crowdin.com/images/project-logo/369271/small/6afbec32f80242af6da64b22130b985d132.png" alt="QiskitLogo" height="50" />
 <img style="margin: 20px" src="https://www.gamingonlinux.com/uploads/tagline_gallery/sdl.jpg" alt="SDL Logo" height="50" />
-<img style="margin: 20px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="SDL Logo" height="50" />
 <img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" height="50" />
 <img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="OpenCV" height="50" />
 
