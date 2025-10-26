@@ -5,12 +5,14 @@
 </br>
 ᯓ★  I'm a full stack web application developer, specifically specializing in React JS and Django
 </br></br>
-🌱 I’m currently working as a Data Science Coordinator for <a href="https://www.desu.edu/">Delaware State University</a>
+🌱 I’m currently working as a Software Developer for <a href="https://www.telepathynetworks.com/">Telepathy Networks</a>
 </br></br>
-💼 Previous Jobs: </br>
 
+💼 Previous Jobs: 
+</br>
+- 📊 Data Science Coordinator
 - 🧪 Quantum Computing Game Development Researcher
-- 🔬 LLNL Laser Technician Research Assistant
+- 🔬 Laser Technician Research Assistant
 - 🖥️ Technical Support Specialist Intern
 
 </br>
