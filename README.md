@@ -5,11 +5,12 @@
 </br>
 ᯓ★  I'm a full stack web application developer, specifically specializing in React JS and Django
 </br></br>
-🌱 I’m currently working as a Software Developer for <a href="https://www.telepathynetworks.com/">Telepathy Networks</a>
+🌱 I’m currently working as a Network Administrator for <a href="https://eastonmd.gov/">Town of Easton</a>
 </br></br>
 
 💼 Previous Jobs: 
 </br>
+- 🖥️ Software Developer
 - 📊 Data Science Coordinator
 - 🧪 Quantum Computing Game Development Researcher
 - 🔬 Laser Technician Research Assistant
