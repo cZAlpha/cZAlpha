@@ -5,7 +5,7 @@
 </br>
 ᯓ★  I'm a full stack web application developer, specifically specializing in React JS and Django
 </br></br>
-🌱 I’m currently working as a Network Administrator for <a href="https://eastonmd.gov/">Town of Easton</a>
+🌱 I’m currently working as a Network Administrator for the <a href="https://eastonmd.gov/">Town of Easton</a>
 </br></br>
 
 💼 Previous Jobs: 
