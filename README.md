@@ -3,7 +3,7 @@
 ### <div align="center">-ˏˋ⋆  Hi, I'm <a href="https://czalpha.github.io/"> Noah </a> ⋆ˊˎ-</div>  
 
 </br>
-ᯓ★  I'm a full stack web application developer, specifically specializing in React JS and Django
+ᯓ★  I'm a full stack web application developer and network administrator
 </br></br>
 🌱 I’m currently working as a Network Administrator for the <a href="https://eastonmd.gov/">Town of Easton</a>
 </br></br>
